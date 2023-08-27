@@ -90,6 +90,8 @@ p
 }
 /* do not change any of the above please */
 
+
+/*CARD FOR MEET THE TEAM PAGE*/
 .contact-card {
     text-align: center;
     padding: 20px;
@@ -140,4 +142,8 @@ p
     80% {
       transform: translateY(-5px);  
 }
+}
+#discordicon
+{
+    width:40px;
 }
