@@ -89,6 +89,7 @@ p
     justify-content: center;
 }
 /* do not change any of the above please */
+/*joinus-discord-instagram-icons*/
 .social-icons a {
     margin-right: 20px;
     transition: all 0.6s;
@@ -105,6 +106,39 @@ p
 }
   
 .social-icons a:hover {
+
+
+/*CARD FOR MEET THE TEAM PAGE*/
+.contact-card {
+    text-align: center;
+    padding: 20px;
+    width: 200px;  
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #013da5;
+}
+
+.profile-pic {
+    width: 100px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+  
+.info h3 {
+    margin: 0;
+    color: white;
+}
+
+.social-icons a {
+    margin-right: 20px;
+    transition: all 0.6s;
+    color: white;
+    display: inline-block; 
+    transition: all 0.5s ease-in-out infinite;
+}
+
+.social-icons a:hover {
+    color: #0096cc;
     transform: translateY(-5px); /* Move up */
     transition: all 0.5s ease-in-out infinite;
 }
@@ -126,3 +160,8 @@ p
     transform: translateY(-5px);  
 }
 }
+#discordicon
+{
+    width:40px;
+}
+
