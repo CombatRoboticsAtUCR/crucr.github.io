@@ -104,9 +104,6 @@ p
     display: inline-block; /* Make links inline-block */
     transition: all 0.5s ease-in-out infinite;
 }
-  
-.social-icons a:hover {
-
 
 /*CARD FOR MEET THE TEAM PAGE*/
 .contact-card {
