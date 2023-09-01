@@ -194,3 +194,18 @@ p
     justify-content: space-around;
     align-items: center;
 }
+.main-mission
+{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    width:90ch;
+    padding:none;
+    margin:none;
+}
+.mission-row
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
