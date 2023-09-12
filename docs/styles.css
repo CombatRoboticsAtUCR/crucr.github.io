@@ -194,7 +194,7 @@ p
     justify-content: space-around;
     align-items: center;
 }
-
+/*code for join us page*/
 .member-section {
     color: white;
     padding-left: 20px;
@@ -229,4 +229,19 @@ p
 
 .member-section a {
     font-size: 16px;
+}
+.main-mission
+{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    width:90ch;
+    padding:none;
+    margin:none;
+}
+.mission-row
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
