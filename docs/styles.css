@@ -194,6 +194,42 @@ p
     justify-content: space-around;
     align-items: center;
 }
+/*code for join us page*/
+.member-section {
+    color: white;
+    padding-left: 20px;
+    border: white;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10%;
+}
+
+.member-section h2 {
+    text-align: left;
+    margin-bottom: -20px;
+    margin-top: -5px;
+}
+
+.member-section h4 {
+    font-size: 24px;
+    padding-left: 20px;
+    margin-bottom: -5px;
+}
+
+.member-section h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.member-section ul {
+    padding-left: 50px;
+}
+
+.member-section a {
+    font-size: 16px;
+}
 .main-mission
 {
     display:flex;
