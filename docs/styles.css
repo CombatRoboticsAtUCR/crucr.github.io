@@ -54,7 +54,12 @@ h2
     font-family: 'Unbounded', sans-serif;
     font-size: 40px;
 }
-
+h3
+{
+    color:white;
+    font-size: 30px;
+    font-family: 'Nunito', sans-serif;
+}
 p
 {
     color:white;
